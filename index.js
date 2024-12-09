@@ -10,3 +10,7 @@ const sum = (a,b) => {
 };
 
 sum(5,6)
+
+const multiply = (a,b) => {
+    return a*b;
+}
