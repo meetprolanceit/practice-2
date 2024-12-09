@@ -1,1 +1,1 @@
-console.log("hello friends i am form index.js initial.")
+console.log("No i want to show my contact details can you show me that?")
