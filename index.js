@@ -5,6 +5,7 @@ console.log(
 );
 
 const sum = (a,b) => {
+    let a= 5, b = 7;
     return a + b;
 };
 
