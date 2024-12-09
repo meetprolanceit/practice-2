@@ -9,4 +9,4 @@ const sum = (a,b) => {
     return a + b;
 };
 
-sum(null,null)
+sum(5,6)
