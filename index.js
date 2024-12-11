@@ -10,7 +10,7 @@ const sum = (a,b) => {
 };
 
 sum(8,7)
-
+sum(99,78)
 const multiply = (a,b) => {
     return a*b;
 }
