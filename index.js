@@ -9,8 +9,8 @@ const sum = (a,b) => {
     return a + b;
 };
 
-sum(5,6)
-
+sum(8,7)
+sum(99,78)
 const multiply = (a,b) => {
     return a*b;
 }
